@@ -17,10 +17,8 @@ def check_letter_type(letter):
         print(f"The letter '{letter}' is a consonant.")
 
 
-# Prompt the user to enter a letter
 letter = input("Enter a letter: ")
 
-# Call the function to check the type of the entered letter
 check_letter_type(letter)
 
 

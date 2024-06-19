@@ -41,3 +41,5 @@ def Employee(fullname,age,salary,phoneNo,position):
 Employee("Job Kamau",45,5000,254745676511,"managing director")
 Employee("Joel Ndegwa",35,55000,25476706511,"Sales person")
 Employee("Stacy Mutheu",24,34500,254798789451,"Human resource manager")
+
+#def function is used to assign values in a function
